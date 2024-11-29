@@ -37,6 +37,3 @@ The **Supplyer** contract is a Solidity smart contract designed to manage a supp
 1. Deploy the contract with an `initialAmount` greater than 0.
 2. Use `incrementSupply` to increase supply or `reduceSupply` to decrease it.
 3. Supply changes are validated to ensure accuracy and prevent errors.
-
-## License
-This project is licensed under the MIT License.
